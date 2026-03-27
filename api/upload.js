@@ -3,7 +3,7 @@ export default async function handler(req, res) {
 
   const { fileName, content } = req.body;
   
-  const REPO_OWNER = "Cottoncandy"; 
+  const REPO_OWNER = "Cottonccandy"; 
   const REPO_NAME = "Audio-mp3"; 
   // ---------------------------------------
 
